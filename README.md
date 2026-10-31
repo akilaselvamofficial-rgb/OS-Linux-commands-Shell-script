@@ -1006,7 +1006,8 @@ $ chmod 755 exread.sh
  
 $ ./exread.sh 
 ## OUTPUT
-<img width="440" height="126" alt="image" src="https://github.com/user-attachments/assets/09161aec-172c-42a9-a4db-9bd85ba3a8b2" />
+<img width="322" height="97" alt="image" src="https://github.com/user-attachments/assets/257731b3-d948-4ba0-b585-1831a79dfef7" />
+
 
 
  cat exread1.sh
@@ -1021,7 +1022,8 @@ $ chmod 755 exread1.sh
 
 $ ./exread1.sh 
 ## OUTPUT
-<img width="408" height="127" alt="image" src="https://github.com/user-attachments/assets/aa1c234c-aeef-4256-93e5-57e160eb869c" />
+<img width="322" height="97" alt="image" src="https://github.com/user-attachments/assets/ce21f24f-2a75-4215-a6d7-af49dcd76cef" />
+
 
 cat funcex.sh
 ```bash
